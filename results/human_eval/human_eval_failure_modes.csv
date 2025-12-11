@@ -1,0 +1,6 @@
+Orchestration Protocol,Passed,Incorrect,Error,Total,Pass Rate (%)
+Builder-Critic,155,8,1,164,94.5
+Voting,152,10,2,164,92.7
+Specialists,150,13,1,164,91.5
+Single-Agent,149,13,2,164,90.9
+Leader-Worker,149,14,1,164,90.9

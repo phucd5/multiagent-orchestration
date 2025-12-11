@@ -1,0 +1,1330 @@
+{
+  "summary": {
+    "core_stats": {
+      "total": 164,
+      "passed": 149,
+      "failed": 15,
+      "pass_rate": 90.8537
+    },
+    "extra_stats": {
+      "incorrect": 14,
+      "error": 1,
+      "incorrect_rate": 8.5366,
+      "error_rate": 0.6098
+    }
+  },
+  "results": [
+    {
+      "task_id": "0",
+      "test_file": "eval_datasets/human_eval/tests/sol_0.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_0.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "1",
+      "test_file": "eval_datasets/human_eval/tests/sol_1.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_1.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "2",
+      "test_file": "eval_datasets/human_eval/tests/sol_2.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_2.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "3",
+      "test_file": "eval_datasets/human_eval/tests/sol_3.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_3.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "4",
+      "test_file": "eval_datasets/human_eval/tests/sol_4.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_4.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "5",
+      "test_file": "eval_datasets/human_eval/tests/sol_5.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_5.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "6",
+      "test_file": "eval_datasets/human_eval/tests/sol_6.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_6.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "7",
+      "test_file": "eval_datasets/human_eval/tests/sol_7.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_7.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "8",
+      "test_file": "eval_datasets/human_eval/tests/sol_8.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_8.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "9",
+      "test_file": "eval_datasets/human_eval/tests/sol_9.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_9.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "10",
+      "test_file": "eval_datasets/human_eval/tests/sol_10.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_10.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "11",
+      "test_file": "eval_datasets/human_eval/tests/sol_11.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_11.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "12",
+      "test_file": "eval_datasets/human_eval/tests/sol_12.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_12.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "13",
+      "test_file": "eval_datasets/human_eval/tests/sol_13.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_13.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "14",
+      "test_file": "eval_datasets/human_eval/tests/sol_14.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_14.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "15",
+      "test_file": "eval_datasets/human_eval/tests/sol_15.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_15.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "16",
+      "test_file": "eval_datasets/human_eval/tests/sol_16.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_16.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "17",
+      "test_file": "eval_datasets/human_eval/tests/sol_17.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_17.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "18",
+      "test_file": "eval_datasets/human_eval/tests/sol_18.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_18.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "19",
+      "test_file": "eval_datasets/human_eval/tests/sol_19.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_19.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "20",
+      "test_file": "eval_datasets/human_eval/tests/sol_20.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_20.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "21",
+      "test_file": "eval_datasets/human_eval/tests/sol_21.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_21.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "22",
+      "test_file": "eval_datasets/human_eval/tests/sol_22.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_22.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "23",
+      "test_file": "eval_datasets/human_eval/tests/sol_23.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_23.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "24",
+      "test_file": "eval_datasets/human_eval/tests/sol_24.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_24.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "25",
+      "test_file": "eval_datasets/human_eval/tests/sol_25.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_25.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "26",
+      "test_file": "eval_datasets/human_eval/tests/sol_26.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_26.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "27",
+      "test_file": "eval_datasets/human_eval/tests/sol_27.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_27.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "28",
+      "test_file": "eval_datasets/human_eval/tests/sol_28.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_28.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "29",
+      "test_file": "eval_datasets/human_eval/tests/sol_29.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_29.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "30",
+      "test_file": "eval_datasets/human_eval/tests/sol_30.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_30.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "31",
+      "test_file": "eval_datasets/human_eval/tests/sol_31.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_31.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "32",
+      "test_file": "eval_datasets/human_eval/tests/sol_32.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_32.py",
+      "status": "error",
+      "error_type": "TypeError",
+      "error_message": "Value after * must be an iterable, not float"
+    },
+    {
+      "task_id": "33",
+      "test_file": "eval_datasets/human_eval/tests/sol_33.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_33.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "34",
+      "test_file": "eval_datasets/human_eval/tests/sol_34.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_34.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "35",
+      "test_file": "eval_datasets/human_eval/tests/sol_35.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_35.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "36",
+      "test_file": "eval_datasets/human_eval/tests/sol_36.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_36.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "37",
+      "test_file": "eval_datasets/human_eval/tests/sol_37.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_37.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "38",
+      "test_file": "eval_datasets/human_eval/tests/sol_38.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_38.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "39",
+      "test_file": "eval_datasets/human_eval/tests/sol_39.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_39.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "40",
+      "test_file": "eval_datasets/human_eval/tests/sol_40.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_40.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "41",
+      "test_file": "eval_datasets/human_eval/tests/sol_41.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_41.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "42",
+      "test_file": "eval_datasets/human_eval/tests/sol_42.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_42.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "43",
+      "test_file": "eval_datasets/human_eval/tests/sol_43.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_43.py",
+      "status": "incorrect",
+      "error_type": "assertion_error",
+      "error_message": "Assertion failed"
+    },
+    {
+      "task_id": "44",
+      "test_file": "eval_datasets/human_eval/tests/sol_44.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_44.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "45",
+      "test_file": "eval_datasets/human_eval/tests/sol_45.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_45.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "46",
+      "test_file": "eval_datasets/human_eval/tests/sol_46.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_46.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "47",
+      "test_file": "eval_datasets/human_eval/tests/sol_47.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_47.py",
+      "status": "incorrect",
+      "error_type": "assertion_error",
+      "error_message": "\nNot equal to tolerance rtol=1e-07, atol=1e-06\n\nMismatched elements: 1 / 1 (100%)\nMax absolute difference among violations: 7.\nMax relative difference among violations: 0.875\n ACTUAL: array(15.)\n DESIRED: array(8.)"
+    },
+    {
+      "task_id": "48",
+      "test_file": "eval_datasets/human_eval/tests/sol_48.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_48.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "49",
+      "test_file": "eval_datasets/human_eval/tests/sol_49.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_49.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "50",
+      "test_file": "eval_datasets/human_eval/tests/sol_50.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_50.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "51",
+      "test_file": "eval_datasets/human_eval/tests/sol_51.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_51.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "52",
+      "test_file": "eval_datasets/human_eval/tests/sol_52.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_52.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "53",
+      "test_file": "eval_datasets/human_eval/tests/sol_53.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_53.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "54",
+      "test_file": "eval_datasets/human_eval/tests/sol_54.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_54.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "55",
+      "test_file": "eval_datasets/human_eval/tests/sol_55.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_55.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "56",
+      "test_file": "eval_datasets/human_eval/tests/sol_56.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_56.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "57",
+      "test_file": "eval_datasets/human_eval/tests/sol_57.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_57.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "58",
+      "test_file": "eval_datasets/human_eval/tests/sol_58.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_58.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "59",
+      "test_file": "eval_datasets/human_eval/tests/sol_59.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_59.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "60",
+      "test_file": "eval_datasets/human_eval/tests/sol_60.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_60.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "61",
+      "test_file": "eval_datasets/human_eval/tests/sol_61.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_61.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "62",
+      "test_file": "eval_datasets/human_eval/tests/sol_62.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_62.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "63",
+      "test_file": "eval_datasets/human_eval/tests/sol_63.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_63.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "64",
+      "test_file": "eval_datasets/human_eval/tests/sol_64.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_64.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "65",
+      "test_file": "eval_datasets/human_eval/tests/sol_65.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_65.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "66",
+      "test_file": "eval_datasets/human_eval/tests/sol_66.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_66.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "67",
+      "test_file": "eval_datasets/human_eval/tests/sol_67.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_67.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "68",
+      "test_file": "eval_datasets/human_eval/tests/sol_68.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_68.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "69",
+      "test_file": "eval_datasets/human_eval/tests/sol_69.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_69.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "70",
+      "test_file": "eval_datasets/human_eval/tests/sol_70.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_70.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "71",
+      "test_file": "eval_datasets/human_eval/tests/sol_71.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_71.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "72",
+      "test_file": "eval_datasets/human_eval/tests/sol_72.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_72.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "73",
+      "test_file": "eval_datasets/human_eval/tests/sol_73.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_73.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "74",
+      "test_file": "eval_datasets/human_eval/tests/sol_74.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_74.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "75",
+      "test_file": "eval_datasets/human_eval/tests/sol_75.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_75.py",
+      "status": "incorrect",
+      "error_type": "assertion_error",
+      "error_message": "Assertion failed"
+    },
+    {
+      "task_id": "76",
+      "test_file": "eval_datasets/human_eval/tests/sol_76.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_76.py",
+      "status": "incorrect",
+      "error_type": "assertion_error",
+      "error_message": "Assertion failed"
+    },
+    {
+      "task_id": "77",
+      "test_file": "eval_datasets/human_eval/tests/sol_77.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_77.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "78",
+      "test_file": "eval_datasets/human_eval/tests/sol_78.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_78.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "79",
+      "test_file": "eval_datasets/human_eval/tests/sol_79.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_79.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "80",
+      "test_file": "eval_datasets/human_eval/tests/sol_80.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_80.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "81",
+      "test_file": "eval_datasets/human_eval/tests/sol_81.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_81.py",
+      "status": "incorrect",
+      "error_type": "assertion_error",
+      "error_message": "Assertion failed"
+    },
+    {
+      "task_id": "82",
+      "test_file": "eval_datasets/human_eval/tests/sol_82.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_82.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "83",
+      "test_file": "eval_datasets/human_eval/tests/sol_83.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_83.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "84",
+      "test_file": "eval_datasets/human_eval/tests/sol_84.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_84.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "85",
+      "test_file": "eval_datasets/human_eval/tests/sol_85.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_85.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "86",
+      "test_file": "eval_datasets/human_eval/tests/sol_86.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_86.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "87",
+      "test_file": "eval_datasets/human_eval/tests/sol_87.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_87.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "88",
+      "test_file": "eval_datasets/human_eval/tests/sol_88.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_88.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "89",
+      "test_file": "eval_datasets/human_eval/tests/sol_89.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_89.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "90",
+      "test_file": "eval_datasets/human_eval/tests/sol_90.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_90.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "91",
+      "test_file": "eval_datasets/human_eval/tests/sol_91.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_91.py",
+      "status": "incorrect",
+      "error_type": "assertion_error",
+      "error_message": "Assertion failed"
+    },
+    {
+      "task_id": "92",
+      "test_file": "eval_datasets/human_eval/tests/sol_92.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_92.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "93",
+      "test_file": "eval_datasets/human_eval/tests/sol_93.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_93.py",
+      "status": "incorrect",
+      "error_type": "assertion_error",
+      "error_message": "Assertion failed"
+    },
+    {
+      "task_id": "94",
+      "test_file": "eval_datasets/human_eval/tests/sol_94.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_94.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "95",
+      "test_file": "eval_datasets/human_eval/tests/sol_95.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_95.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "96",
+      "test_file": "eval_datasets/human_eval/tests/sol_96.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_96.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "97",
+      "test_file": "eval_datasets/human_eval/tests/sol_97.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_97.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "98",
+      "test_file": "eval_datasets/human_eval/tests/sol_98.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_98.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "99",
+      "test_file": "eval_datasets/human_eval/tests/sol_99.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_99.py",
+      "status": "incorrect",
+      "error_type": "assertion_error",
+      "error_message": "Assertion failed"
+    },
+    {
+      "task_id": "100",
+      "test_file": "eval_datasets/human_eval/tests/sol_100.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_100.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "101",
+      "test_file": "eval_datasets/human_eval/tests/sol_101.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_101.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "102",
+      "test_file": "eval_datasets/human_eval/tests/sol_102.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_102.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "103",
+      "test_file": "eval_datasets/human_eval/tests/sol_103.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_103.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "104",
+      "test_file": "eval_datasets/human_eval/tests/sol_104.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_104.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "105",
+      "test_file": "eval_datasets/human_eval/tests/sol_105.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_105.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "106",
+      "test_file": "eval_datasets/human_eval/tests/sol_106.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_106.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "107",
+      "test_file": "eval_datasets/human_eval/tests/sol_107.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_107.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "108",
+      "test_file": "eval_datasets/human_eval/tests/sol_108.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_108.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "109",
+      "test_file": "eval_datasets/human_eval/tests/sol_109.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_109.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "110",
+      "test_file": "eval_datasets/human_eval/tests/sol_110.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_110.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "111",
+      "test_file": "eval_datasets/human_eval/tests/sol_111.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_111.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "112",
+      "test_file": "eval_datasets/human_eval/tests/sol_112.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_112.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "113",
+      "test_file": "eval_datasets/human_eval/tests/sol_113.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_113.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "114",
+      "test_file": "eval_datasets/human_eval/tests/sol_114.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_114.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "115",
+      "test_file": "eval_datasets/human_eval/tests/sol_115.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_115.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "116",
+      "test_file": "eval_datasets/human_eval/tests/sol_116.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_116.py",
+      "status": "incorrect",
+      "error_type": "assertion_error",
+      "error_message": "Assertion failed"
+    },
+    {
+      "task_id": "117",
+      "test_file": "eval_datasets/human_eval/tests/sol_117.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_117.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "118",
+      "test_file": "eval_datasets/human_eval/tests/sol_118.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_118.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "119",
+      "test_file": "eval_datasets/human_eval/tests/sol_119.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_119.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "120",
+      "test_file": "eval_datasets/human_eval/tests/sol_120.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_120.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "121",
+      "test_file": "eval_datasets/human_eval/tests/sol_121.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_121.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "122",
+      "test_file": "eval_datasets/human_eval/tests/sol_122.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_122.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "123",
+      "test_file": "eval_datasets/human_eval/tests/sol_123.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_123.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "124",
+      "test_file": "eval_datasets/human_eval/tests/sol_124.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_124.py",
+      "status": "incorrect",
+      "error_type": "assertion_error",
+      "error_message": "Assertion failed"
+    },
+    {
+      "task_id": "125",
+      "test_file": "eval_datasets/human_eval/tests/sol_125.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_125.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "126",
+      "test_file": "eval_datasets/human_eval/tests/sol_126.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_126.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "127",
+      "test_file": "eval_datasets/human_eval/tests/sol_127.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_127.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "128",
+      "test_file": "eval_datasets/human_eval/tests/sol_128.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_128.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "129",
+      "test_file": "eval_datasets/human_eval/tests/sol_129.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_129.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "130",
+      "test_file": "eval_datasets/human_eval/tests/sol_130.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_130.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "131",
+      "test_file": "eval_datasets/human_eval/tests/sol_131.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_131.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "132",
+      "test_file": "eval_datasets/human_eval/tests/sol_132.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_132.py",
+      "status": "incorrect",
+      "error_type": "assertion_error",
+      "error_message": "Assertion failed"
+    },
+    {
+      "task_id": "133",
+      "test_file": "eval_datasets/human_eval/tests/sol_133.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_133.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "134",
+      "test_file": "eval_datasets/human_eval/tests/sol_134.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_134.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "135",
+      "test_file": "eval_datasets/human_eval/tests/sol_135.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_135.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "136",
+      "test_file": "eval_datasets/human_eval/tests/sol_136.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_136.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "137",
+      "test_file": "eval_datasets/human_eval/tests/sol_137.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_137.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "138",
+      "test_file": "eval_datasets/human_eval/tests/sol_138.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_138.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "139",
+      "test_file": "eval_datasets/human_eval/tests/sol_139.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_139.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "140",
+      "test_file": "eval_datasets/human_eval/tests/sol_140.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_140.py",
+      "status": "incorrect",
+      "error_type": "assertion_error",
+      "error_message": "Assertion failed"
+    },
+    {
+      "task_id": "141",
+      "test_file": "eval_datasets/human_eval/tests/sol_141.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_141.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "142",
+      "test_file": "eval_datasets/human_eval/tests/sol_142.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_142.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "143",
+      "test_file": "eval_datasets/human_eval/tests/sol_143.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_143.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "144",
+      "test_file": "eval_datasets/human_eval/tests/sol_144.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_144.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "145",
+      "test_file": "eval_datasets/human_eval/tests/sol_145.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_145.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "146",
+      "test_file": "eval_datasets/human_eval/tests/sol_146.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_146.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "147",
+      "test_file": "eval_datasets/human_eval/tests/sol_147.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_147.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "148",
+      "test_file": "eval_datasets/human_eval/tests/sol_148.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_148.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "149",
+      "test_file": "eval_datasets/human_eval/tests/sol_149.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_149.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "150",
+      "test_file": "eval_datasets/human_eval/tests/sol_150.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_150.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "151",
+      "test_file": "eval_datasets/human_eval/tests/sol_151.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_151.py",
+      "status": "incorrect",
+      "error_type": "assertion_error",
+      "error_message": "Assertion failed"
+    },
+    {
+      "task_id": "152",
+      "test_file": "eval_datasets/human_eval/tests/sol_152.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_152.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "153",
+      "test_file": "eval_datasets/human_eval/tests/sol_153.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_153.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "154",
+      "test_file": "eval_datasets/human_eval/tests/sol_154.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_154.py",
+      "status": "incorrect",
+      "error_type": "assertion_error",
+      "error_message": "Assertion failed"
+    },
+    {
+      "task_id": "155",
+      "test_file": "eval_datasets/human_eval/tests/sol_155.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_155.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "156",
+      "test_file": "eval_datasets/human_eval/tests/sol_156.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_156.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "157",
+      "test_file": "eval_datasets/human_eval/tests/sol_157.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_157.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "158",
+      "test_file": "eval_datasets/human_eval/tests/sol_158.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_158.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "159",
+      "test_file": "eval_datasets/human_eval/tests/sol_159.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_159.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "160",
+      "test_file": "eval_datasets/human_eval/tests/sol_160.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_160.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "161",
+      "test_file": "eval_datasets/human_eval/tests/sol_161.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_161.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "162",
+      "test_file": "eval_datasets/human_eval/tests/sol_162.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_162.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    },
+    {
+      "task_id": "163",
+      "test_file": "eval_datasets/human_eval/tests/sol_163.py",
+      "solution_file": "eval_agent_sols/human_eval/leader/agent_sol_163.py",
+      "status": "passed",
+      "error_type": null,
+      "error_message": null
+    }
+  ]
+}

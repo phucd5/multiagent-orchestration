@@ -1,0 +1,6 @@
+Orchestration Protocol,Passed,Incorrect,Backwards Failure,Error,Total,Pass Rate (%)
+Single-Agent,9,35,5,1,50,18.0
+Specialists,8,29,5,8,50,16.0
+Leader-Worker,8,31,5,6,50,16.0
+Builder-Critic,7,36,5,2,50,14.0
+Voting,4,32,6,8,50,8.0

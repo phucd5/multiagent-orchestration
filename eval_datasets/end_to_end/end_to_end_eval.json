@@ -1,0 +1,17 @@
+[
+  {
+    "task_id": "finance_tracker",
+    "task_name": "Personal Finance Tracker",
+    "instruction_file": "finance_tracker_inst.md",
+    "env_file": "finance_tracker_env.md",
+    "template_dir": "finance_tracker"
+  },
+  {
+    "task_id": "spam_classifier",
+    "task_name": "Spam Classifier Dashboard",
+    "instruction_file": "spam_classifer_inst.md",
+    "env_file": "spam_classifer_env.md",
+    "template_dir": "spam_classifer"
+  }
+]
+
