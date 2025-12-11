@@ -14,6 +14,8 @@ Yale University, Department of Computer Science
 Coordinating multiple large language model (LLM) agents on software engineering tasks remains an open challenge even as single-agent systems continue to improve at code generation and debugging. Understanding how to organize multi-agent architectures can help us develop systems that can carry out more complex, multi-step software development workflows with little human oversight. In this work, we design and evaluate four distinct coordination protocols, Builder–Critic, Leader–Worker, Voting, and a role-specialized pipeline. We evaluate these systems across short-horizon tasks using HumanEval+, real-world bug fixing with SWE-bench Verified, and long-horizon end-to-end development projects. Our results show that lightweight feedback loops yield notable gains on short tasks, whereas more complex multi-agent structures introduce significant coordination overhead without improving outcomes on repository-level issues. In open-ended development projects that require extended planning, creativity, and coordination across development phases, approaches based on role differentiation show clearer advantages, yet they come at higher computational cost with increased runtime overhead.
 These findings characterize the trade-offs between coordination structure, accuracy, and computational cost in multi-agent orchestration and offer guidance for designing scalable multi-agent systems for different classes of software engineering tasks.
 
+![protocols](assets/protocols.png)
+
 ## Setup
 
 **Base Multi-Agent Package Requirements**
@@ -53,10 +55,10 @@ For SWE-bench Verified, we ran each evaluation in a Docker image using Epoch's A
 
 **Related Files**
 
-- [eval_datasets/](eval_datasets): All datasets used in this project
-- [generate_human_eval_tests.py](scripts/generate_human_eval_tests.py): Extracts test cases from the HumanEval+ dataset and save them as individual files for running
-- [fetch_sbv.py](scripts/fetch_sbv.py): Fetches the SWE-bench Verified dataset and randomly sample a fixed amount
-- [pull_sbv_image.sh](scripts/pull_sbv_image.sh): Pull Epoch's AI Docker image locally and verify it can be loaded using [verify_sbv_image.sh](scripts/verify_sbv_image.sh)
+- [eval_datasets](eval_datasets): All datasets used in this project.
+- [generate_human_eval_tests.py](scripts/generate_human_eval_tests.py): Extracts test cases from the HumanEval+ dataset and save them as individual files for running.
+- [fetch_sbv.py](scripts/fetch_sbv.py): Fetches the SWE-bench Verified dataset and randomly sample a fixed amount.
+- [pull_sbv_image.sh](scripts/pull_sbv_image.sh): Pull Epoch's AI Docker image locally and verify it can be loaded using [verify_sbv_image.sh](scripts/verify_sbv_image.sh).
 
 
 ## Coordination Protocols
@@ -65,15 +67,15 @@ Each protocol was built using the `claude-agent-sdk` as the base framework.
 
 **Related Files**
 
-- [base_agents.py](agents/base_agent.py): Base agents the wraps around the Claude Agent SDK
+- [base_agents.py](agents/base_agent.py): Base agents the wraps around the Claude Agent SDK.
 - [execution_log.py](agents/execution_log.py): Custom logging for the project to capture tool usage, identify which agent is communicating, and record execution statistics.
 - [subagents_manager.py](orchestrators/subagents_manager.py): Logic for managing subagent lifecycle and routing communication between orchestrator and subagents.
-- [orchestrators/](orchestrators/): Contains the implentation for each protocol
-- [orchestrators/prompts/](orchestrators/prompts): Contains the system prompts for different agent roles in each protocol and task instructions and environment descriptions for each evaluation
+- [orchestrators](orchestrators/): Contains the implentation for each protocol.
+- [orchestrators/prompts](orchestrators/prompts): Contains the system prompts for different agent roles in each protocol and task instructions and environment descriptions for each evaluation.
 
 ## Evaluation
 
-All evaluation code can be found in [eval/](eval/).
+All evaluation code can be found in [eval](eval/).
 
 ### Human Eval
 
@@ -127,6 +129,7 @@ python3 eval/swe_bench_verified/run_eval.py \
 ```
 
 **Running Evaluation**
+
 This runs and apply the generated patches against the SWE-bench Verified test suite in Docker containers.
 
 ```bash
@@ -134,7 +137,6 @@ python3 eval/swe_bench_verified/run_swe_bench_tests.py \
   --tests_dir <path_to_swe_verified.json> \
   --solutions_dir <path_to_solutions_directory> \
   --output_file <path_to_output_results.json>
-
 ```
 
 ### End-To-End Tasks
